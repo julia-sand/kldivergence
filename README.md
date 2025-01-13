@@ -10,4 +10,7 @@ The codes for Entropy production case used in the preprint [Minimal- work protoc
 
 In [2411.08518](https://arxiv.org/pdf/2411.08518)
 For Figs 1 and 3, see the notebook mcintegration_entropy
-For Fig 5, see the notebook nn_overdamped
+For Fig 5, see the notebook mcintegration_neural
+
+
+
